@@ -1,4 +1,6 @@
-# Create React App example
+plantsss.com
+
+# Create React App
 
 ## How to use
 
@@ -16,6 +18,6 @@ npm install
 npm run start
 ```
 
-## The idea behind the example
+## The idea behind
 
 [Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
